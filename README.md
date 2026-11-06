@@ -48,30 +48,35 @@ Procedure for Load test:
 7.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
 
 Tabulation for Open Circuit Test
+
+
 <img width="1599" height="1573" alt="image" src="https://github.com/user-attachments/assets/e1bc83bc-cbce-49f1-8086-2c8a9ffaf8a1" />
 
 
 Tabulation for Load Test:
+
+
 <img width="1302" height="1046" alt="image" src="https://github.com/user-attachments/assets/84655cf6-ae86-4159-aec5-cb900912f147" />
 
 Open circuit characteristics
 Model graph:
+
+
 <img width="1600" height="1586" alt="image" src="https://github.com/user-attachments/assets/197660c4-a66d-4f02-a91f-aea565e51ac0" />
 
 Load Characteristics:
 Model graph:
 
- <img width="1600" height="1237" alt="image" src="https://github.com/user-attachments/assets/dfbff95e-291e-4aab-b925-de779d40160b" />
+<img width="1600" height="1237" alt="image" src="https://github.com/user-attachments/assets/dfbff95e-291e-4aab-b925-de779d40160b" />
 
 Open circuit characteristics:
+
 <img width="672" height="582" alt="image" src="https://github.com/user-attachments/assets/2846add7-6b10-4aa9-b23d-cd8986f1b8e5" />
 
 
 Load circuit characteristics:
 
 <img width="497" height="382" alt="image" src="https://github.com/user-attachments/assets/2da5bd0e-0fff-42ec-89a0-69ece925d5b4" />
-
-  
 
  
 Result:
